@@ -12,6 +12,9 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "express": "^5.2.1"
+    "cpeak": "^2.9.2",
+    "express": "^5.2.1",
+    "fastify": "^5.12.5",
+    "uWebSockets.js": "github:uNetworking/uWebSockets.js#v20.58.0"
   }
 }
